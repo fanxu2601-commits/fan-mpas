@@ -1,0 +1,379 @@
+{
+  "profile": {
+    "name": {
+      "zh": "徐帆",
+      "en": "XU Fan"
+    },
+    "nameAlt": {
+      "zh": "XU FAN",
+      "en": "徐帆 / FAN XU"
+    },
+    "affiliation": {
+      "en": "MPhil student · The Hong Kong University of Science and Technology",
+      "zh": "香港科技大学 · MPhil 研究生"
+    },
+    "intro": {
+      "en": "My current research uses MPAS to simulate extreme weather events, including extreme precipitation and heatwaves in Hong Kong.",
+      "zh": "我目前主要使用 MPAS 模拟极端天气事件，包括香港的极端降水和热浪。"
+    },
+    "bio": {
+      "en": "I am an MPhil student at The Hong Kong University of Science and Technology, where I began in September 2026. My current research focuses on MPAS-URBAN. My background spans physical oceanography, atmospheric science and applied mathematics.",
+      "zh": "我于 2026 年 9 月开始在香港科技大学攻读 MPhil，目前从事 MPAS-URBAN 研究。我的学术背景涵盖物理海洋学、大气科学和应用数学。"
+    },
+    "bioDetail": {
+      "zh": "在爱丁堡大学的研究项目中，我使用准地转模型 pyqg 和卷积神经网络研究海洋湍流的超分辨率重建。此前，我研究了北冰洋中尺度涡旋及阿拉伯海热带气旋的变化。",
+      "en": "My research at the University of Edinburgh focused on super-resolution of ocean turbulence using the quasigeostrophic model pyqg and convolutional neural networks. Previously, I studied Arctic mesoscale eddies and the drivers of tropical cyclone variability in the Arabian Sea."
+    },
+    "isDraft": false,
+    "email": "fxuay@connect.ust.hk",
+    "links": [
+      {
+        "label": "ORCID",
+        "url": "https://orcid.org/0009-0006-8162-6161"
+      }
+    ],
+    "research": [
+      {
+        "title": {
+          "en": "MPAS-URBAN · Current research",
+          "zh": "MPAS-URBAN · 当前研究"
+        },
+        "description": {
+          "en": "Ongoing MPhil research at The Hong Kong University of Science and Technology, since September 2026.",
+          "zh": "自 2026 年 9 月起，在香港科技大学开展的 MPhil 研究工作。"
+        }
+      },
+      {
+        "title": {
+          "zh": "海洋湍流与机器学习",
+          "en": "Ocean turbulence & machine learning"
+        },
+        "description": {
+          "zh": "使用 pyqg 生成数据并构建卷积神经网络，研究海洋中尺度湍流的超分辨率重建。爱丁堡大学研究项目，2024–2026。",
+          "en": "Super-resolution of ocean mesoscale turbulence with pyqg simulations and convolutional neural networks. Research project at the University of Edinburgh, 2024–2026."
+        }
+      },
+      {
+        "title": {
+          "zh": "北冰洋中尺度涡旋",
+          "en": "Mesoscale eddies in the Arctic Ocean"
+        },
+        "description": {
+          "zh": "结合 HYCOM 与现场观测，研究加拿大海盆次表层反气旋涡的三维结构，以及北冰洋涡旋特征的季节变化。",
+          "en": "Three-dimensional structure of a subsurface anticyclonic eddy in the Canada Basin and seasonal variability of Arctic eddies, using HYCOM and in-situ observations."
+        }
+      },
+      {
+        "title": {
+          "zh": "热带气旋与气候变化",
+          "en": "Tropical cyclones & climate variability"
+        },
+        "description": {
+          "zh": "使用 IBTrACS 数据研究阿拉伯海热带气旋路径及变化驱动因素，分析其与 ENSO、IOD 等气候指数的联系。",
+          "en": "Drivers of Arabian Sea tropical cyclone variability, using IBTrACS tracks and correlation analysis with climate indices including ENSO and the Indian Ocean Dipole."
+        }
+      }
+    ],
+    "publications": [
+      {
+        "year": 2025,
+        "title": "Daily Evolution of Three-Dimensional Structure of a Subsurface Anticyclonic Eddy and Eddy-Induced Swirl Transport in the Canada Basin",
+        "authors": "Xu, F., Li, H., Wang, R., et al.",
+        "venue": "Journal of Ocean University of China · 24, 545–556",
+        "url": "https://doi.org/10.1007/s11802-025-5934-8"
+      },
+      {
+        "year": 2025,
+        "title": "Trends and innovations in ocean mesoscale eddy studies via satellite observation: a bibliometric review",
+        "authors": "Xu, F., Wen, Z., Wang, H., Li, T., Song, X., & Peng, H.",
+        "venue": "Frontiers in Marine Science",
+        "url": "https://doi.org/10.3389/fmars.2025.1577339"
+      }
+    ],
+    "experience": [
+      {
+        "period": "2026.09–present",
+        "title": {
+          "en": "MPhil · Current",
+          "zh": "MPhil · 在读"
+        },
+        "institution": {
+          "en": "The Hong Kong University of Science and Technology · MPAS-URBAN",
+          "zh": "香港科技大学 · MPAS-URBAN"
+        }
+      },
+      {
+        "period": "2024.09–2026.01",
+        "title": {
+          "zh": "应用数学 · MScR",
+          "en": "MScR in Applied Mathematics"
+        },
+        "institution": {
+          "zh": "爱丁堡大学 · 导师：Dr. Jacob Page",
+          "en": "University of Edinburgh · Supervisor: Dr. Jacob Page"
+        }
+      },
+      {
+        "period": "2021.09–2024.06",
+        "title": {
+          "zh": "物理海洋学 · 硕士阶段研究",
+          "en": "Master’s studies in Physical Oceanography"
+        },
+        "institution": {
+          "zh": "中国科学院大学 · 导师：Prof. Haiyan Li",
+          "en": "University of Chinese Academy of Sciences · Supervisor: Prof. Haiyan Li"
+        }
+      },
+      {
+        "period": "2020.09–2021.07",
+        "title": {
+          "zh": "大气科学 · 荣誉理学学士（一等）",
+          "en": "BSc in Atmospheric Sciences · First-class honours"
+        },
+        "institution": {
+          "zh": "雷丁大学 · 导师：Prof. Reinhard Schiemann",
+          "en": "University of Reading · Supervisor: Prof. Reinhard Schiemann"
+        }
+      },
+      {
+        "period": "2017.09–2021.06",
+        "title": {
+          "zh": "大气科学 · 理学学士",
+          "en": "BSc in Atmospheric Sciences"
+        },
+        "institution": {
+          "zh": "南京信息工程大学 · 雷丁学院",
+          "en": "Nanjing University of Information Science and Technology · Reading Academy"
+        }
+      }
+    ],
+    "activities": [
+      {
+        "period": "2025–2026",
+        "title": {
+          "zh": "数学学院助教",
+          "en": "Tutor · School of Mathematics"
+        },
+        "institution": {
+          "zh": "爱丁堡大学 · Python 编程与荣誉微分方程课程",
+          "en": "University of Edinburgh · Python programming and Honours Differential Equations"
+        }
+      },
+      {
+        "period": "2023.12",
+        "title": {
+          "zh": "AGU 秋季会议 · 海报报告",
+          "en": "AGU Fall Meeting · Poster"
+        },
+        "institution": {
+          "zh": "美国旧金山 · 北冰洋反气旋涡的三维结构与形成机制",
+          "en": "San Francisco · Three-dimensional structure and genesis of an Arctic anticyclonic eddy"
+        }
+      },
+      {
+        "period": "2023.05",
+        "title": {
+          "zh": "iSPOGOC · 海报报告",
+          "en": "iSPOGOC · Poster"
+        },
+        "institution": {
+          "zh": "第二届极地海洋与全球变化国际研讨会 · 北冰洋与南大洋中尺度涡旋比较",
+          "en": "Second International Symposium on Polar Oceans and Global Change · Arctic and Southern Ocean mesoscale eddies"
+        }
+      }
+    ],
+    "skills": "Python · MATLAB · Fortran · GMT · HYCOM · pyqg · CNNs"
+  },
+  "places": [
+    {
+      "id": "hongkong",
+      "name": [
+        "Hong Kong",
+        "香港"
+      ],
+      "coords": [
+        114.264,
+        22.337
+      ],
+      "type": [
+        "CURRENT RESEARCH",
+        "当前研究"
+      ],
+      "period": "Sep 2026 — present",
+      "institution": [
+        "The Hong Kong University of Science and Technology",
+        "香港科技大学"
+      ],
+      "title": [
+        "MPAS-URBAN",
+        "MPAS-URBAN"
+      ],
+      "body": [
+        "I began my MPhil at HKUST in September 2026. My current research focuses on MPAS-URBAN.",
+        "我于 2026 年 9 月开始在香港科技大学攻读 MPhil，目前的研究方向是 MPAS-URBAN。"
+      ],
+      "outcome": [
+        "Research in progress. Further methods and results will be added as the project develops.",
+        "研究进行中，后续将随项目进展补充方法与成果。"
+      ],
+      "tags": "MPhil · MPAS-URBAN",
+      "link": "#research",
+      "linkLabel": [
+        "Explore current research →",
+        "查看当前研究 →"
+      ]
+    },
+    {
+      "id": "edinburgh",
+      "name": [
+        "Edinburgh",
+        "爱丁堡"
+      ],
+      "coords": [
+        -3.188,
+        55.953
+      ],
+      "type": [
+        "RESEARCH & EDUCATION",
+        "研究与教育"
+      ],
+      "period": "Sep 2024 — Jan 2026",
+      "institution": [
+        "University of Edinburgh",
+        "爱丁堡大学"
+      ],
+      "title": [
+        "Super-resolution of ocean turbulence",
+        "海洋湍流超分辨率重建"
+      ],
+      "body": [
+        "MScR research in Applied Mathematics, supervised by Dr. Jacob Page. I used the Python quasigeostrophic model pyqg as a data source and built a convolutional neural network to investigate super-resolution of ocean mesoscale turbulence.",
+        "在 Dr. Jacob Page 指导下开展应用数学 MScR 研究，使用 Python 准地转模型 pyqg 生成数据，构建卷积神经网络，探索海洋中尺度湍流的超分辨率重建。"
+      ],
+      "outcome": [
+        "Research work: model-generated data and a CNN-based super-resolution approach. I also tutored Python programming and Honours Differential Equations at the School of Mathematics.",
+        "研究工作包括模型数据生成与基于 CNN 的超分辨率方法；同时在数学学院承担 Python 编程及荣誉微分方程课程辅导。"
+      ],
+      "tags": "pyqg · CNNs · Python · Applied Mathematics",
+      "link": "#experience",
+      "linkLabel": [
+        "View academic experience →",
+        "查看学术经历 →"
+      ]
+    },
+    {
+      "id": "reading",
+      "name": [
+        "Reading",
+        "雷丁"
+      ],
+      "coords": [
+        -0.978,
+        51.454
+      ],
+      "type": [
+        "RESEARCH & EDUCATION",
+        "研究与教育"
+      ],
+      "period": "Sep 2020 — Jul 2021",
+      "institution": [
+        "University of Reading",
+        "雷丁大学"
+      ],
+      "title": [
+        "Drivers of Arabian Sea tropical cyclone variability",
+        "阿拉伯海热带气旋变化的驱动因素"
+      ],
+      "body": [
+        "BSc research in Atmospheric Sciences, supervised by Prof. Reinhard Schiemann. I visualized tropical cyclone trajectories using IBTrACS and examined correlations with climate indices including ENSO and the Indian Ocean Dipole.",
+        "在 Prof. Reinhard Schiemann 指导下开展大气科学本科研究，使用 IBTrACS 数据可视化热带气旋路径，分析其与 ENSO、印度洋偶极子等气候指数的相关性。"
+      ],
+      "outcome": [
+        "First-class honours in Atmospheric Sciences. Research connected cyclone tracks with large-scale climate variability.",
+        "获得大气科学一等荣誉学位；研究将气旋路径与大尺度气候变化联系起来。"
+      ],
+      "tags": "IBTrACS · ENSO · IOD · Atmospheric Sciences",
+      "link": "#experience",
+      "linkLabel": [
+        "View academic experience →",
+        "查看学术经历 →"
+      ]
+    },
+    {
+      "id": "nanjing",
+      "name": [
+        "Nanjing",
+        "南京"
+      ],
+      "coords": [
+        118.797,
+        32.06
+      ],
+      "type": [
+        "EDUCATION",
+        "教育经历"
+      ],
+      "period": "Sep 2017 — Jun 2021",
+      "institution": [
+        "Nanjing University of Information Science and Technology",
+        "南京信息工程大学"
+      ],
+      "title": [
+        "A foundation in atmospheric science",
+        "大气科学学习起点"
+      ],
+      "body": [
+        "BSc in Atmospheric Sciences at Reading Academy, Nanjing University of Information Science and Technology. This training formed the foundation of my later work in climate and ocean dynamics.",
+        "在南京信息工程大学雷丁学院攻读大气科学理学学士，为后续气候与海洋动力学研究奠定基础。"
+      ],
+      "outcome": [
+        "Academic training in atmospheric science, quantitative analysis and scientific computing.",
+        "学习大气科学、定量分析与科学计算。"
+      ],
+      "tags": "Atmospheric Sciences · Reading Academy",
+      "link": "#experience",
+      "linkLabel": [
+        "View education →",
+        "查看教育经历 →"
+      ]
+    },
+    {
+      "id": "beijing",
+      "name": [
+        "Beijing",
+        "北京"
+      ],
+      "coords": [
+        116.4074,
+        39.9042
+      ],
+      "type": [
+        "RESEARCH & EDUCATION",
+        "研究与教育"
+      ],
+      "period": "Sep 2021 — Jun 2024 · Publication 2025",
+      "institution": [
+        "University of Chinese Academy of Sciences",
+        "中国科学院大学"
+      ],
+      "title": [
+        "The three-dimensional life of an Arctic eddy",
+        "北冰洋涡旋的三维演变"
+      ],
+      "body": [
+        "During my master’s studies in Physical Oceanography at the University of Chinese Academy of Sciences in Beijing, I used HYCOM and in-situ observations to investigate a subsurface anticyclonic eddy in the Canada Basin, its three-dimensional evolution and eddy-induced swirl transport. My wider work also examined seasonal variability of Arctic mesoscale eddies.",
+        "在北京中国科学院大学攻读物理海洋学硕士期间，结合 HYCOM 与现场观测数据，研究加拿大海盆次表层反气旋涡的三维演变和涡旋诱导的旋转输运，同时关注北冰洋中尺度涡旋的季节变化。"
+      ],
+      "outcome": [
+        "Published in Journal of Ocean University of China, 24, 545–556 (2025). Xu, F., Li, H., Wang, R., et al.",
+        "成果发表于 Journal of Ocean University of China, 24, 545–556 (2025)，作者 Xu, F., Li, H., Wang, R., et al.。"
+      ],
+      "tags": "HYCOM · In-situ observations · Mesoscale eddies",
+      "link": "https://doi.org/10.1007/s11802-025-5934-8",
+      "linkLabel": [
+        "Read the published paper ↗",
+        "阅读已发表论文 ↗"
+      ]
+    }
+  ]
+}
