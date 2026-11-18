@@ -1,5 +1,5 @@
 # XU Fan · Academic homepage
-https://fanxu2601-commits.github.io/fan-mpas/
+https://fanxu2601-commits.github.io/fan-mpas/  
 独立静态科研主页，英文为主，支持中文切换、个人照片、交互地球及科研地点详情。所有运行所需脚本、样式和地图均随站点保存，不依赖 ChatGPT 登录或内容接口。
 
 ## 发布到 GitHub Pages
